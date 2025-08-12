@@ -6,9 +6,9 @@
 
 I'm Computer Engineer and Software Developer specializing in Web and Mobile development. I'm passionate about learning and improving each day – it keeps me on my toes!
 - 💻 I’m looking forward to collaborate on new projects
+- 👾 I'm a cryptocurrency enthusiast and have more than 6 years of experience working with Web/Web3 Applications
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and podcasts.
-- 👾 I'm a cryptocurrency enthusiast and have more than 6 years of experience working with Web3 Applications
 - 📫 Reach out to me at: <a href="fabiopineda97@gmail.com">fabiopineda97@gmail.com</a>
 
 ## My Skills Include
