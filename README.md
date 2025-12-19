@@ -40,9 +40,6 @@ I'm Computer Engineer and Software Developer specializing in Web and Mobile deve
 <a href= "https://fabiopineda.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<a href="https://www.twitch.tv/fabioepb" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
 
 <h2>Github stats:</h2> 
 
